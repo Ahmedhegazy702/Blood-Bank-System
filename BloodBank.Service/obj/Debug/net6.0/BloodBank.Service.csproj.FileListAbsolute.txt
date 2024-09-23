@@ -1,0 +1,15 @@
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\bin\Debug\net6.0\BloodBank.Service.deps.json
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\bin\Debug\net6.0\BloodBank.Service.dll
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\bin\Debug\net6.0\BloodBank.Service.pdb
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\bin\Debug\net6.0\BloodBank.Core.dll
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\bin\Debug\net6.0\BloodBank.Core.pdb
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\obj\Debug\net6.0\BloodBank.Service.csproj.AssemblyReference.cache
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\obj\Debug\net6.0\BloodBank.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\obj\Debug\net6.0\BloodBank.Service.AssemblyInfoInputs.cache
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\obj\Debug\net6.0\BloodBank.Service.AssemblyInfo.cs
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\obj\Debug\net6.0\BloodBank.Service.csproj.CoreCompileInputs.cache
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\obj\Debug\net6.0\BloodBank.Service.csproj.CopyComplete
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\obj\Debug\net6.0\BloodBank.Service.dll
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\obj\Debug\net6.0\refint\BloodBank.Service.dll
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\obj\Debug\net6.0\BloodBank.Service.pdb
+F:\Project C#\BloodBankSystem Solution\BloodBank.Service\obj\Debug\net6.0\ref\BloodBank.Service.dll
