@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "XTp9Sb2vBqtTEGxFUgLUiEx5HvtqiW76Jz+sabLlgoc=",
+  "Source": "BloodBankSystem",
+  "BasePath": "_content/BloodBankSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BloodBankSystem\\wwwroot",
+      "Source": "BloodBankSystem",
+      "ContentRoot": "F:\\Project C#\\BloodBankSystem Solution\\BloodBankSystem\\wwwroot\\",
+      "BasePath": "_content/BloodBankSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
