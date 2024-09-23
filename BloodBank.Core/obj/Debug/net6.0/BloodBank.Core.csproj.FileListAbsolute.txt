@@ -1,0 +1,12 @@
+F:\Project C#\BloodBankSystem Solution\BloodBank.Core\bin\Debug\net6.0\BloodBank.Core.deps.json
+F:\Project C#\BloodBankSystem Solution\BloodBank.Core\bin\Debug\net6.0\BloodBank.Core.dll
+F:\Project C#\BloodBankSystem Solution\BloodBank.Core\bin\Debug\net6.0\BloodBank.Core.pdb
+F:\Project C#\BloodBankSystem Solution\BloodBank.Core\obj\Debug\net6.0\BloodBank.Core.csproj.AssemblyReference.cache
+F:\Project C#\BloodBankSystem Solution\BloodBank.Core\obj\Debug\net6.0\BloodBank.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project C#\BloodBankSystem Solution\BloodBank.Core\obj\Debug\net6.0\BloodBank.Core.AssemblyInfoInputs.cache
+F:\Project C#\BloodBankSystem Solution\BloodBank.Core\obj\Debug\net6.0\BloodBank.Core.AssemblyInfo.cs
+F:\Project C#\BloodBankSystem Solution\BloodBank.Core\obj\Debug\net6.0\BloodBank.Core.csproj.CoreCompileInputs.cache
+F:\Project C#\BloodBankSystem Solution\BloodBank.Core\obj\Debug\net6.0\BloodBank.Core.dll
+F:\Project C#\BloodBankSystem Solution\BloodBank.Core\obj\Debug\net6.0\refint\BloodBank.Core.dll
+F:\Project C#\BloodBankSystem Solution\BloodBank.Core\obj\Debug\net6.0\BloodBank.Core.pdb
+F:\Project C#\BloodBankSystem Solution\BloodBank.Core\obj\Debug\net6.0\ref\BloodBank.Core.dll
