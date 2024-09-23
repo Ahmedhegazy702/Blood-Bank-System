@@ -1,0 +1,15 @@
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\bin\Release\net6.0\BloodBank.Repository.deps.json
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\bin\Release\net6.0\BloodBank.Repository.dll
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\bin\Release\net6.0\BloodBank.Repository.pdb
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\bin\Release\net6.0\BloodBank.Core.dll
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\bin\Release\net6.0\BloodBank.Core.pdb
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\obj\Release\net6.0\BloodBank.Repository.csproj.AssemblyReference.cache
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\obj\Release\net6.0\BloodBank.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\obj\Release\net6.0\BloodBank.Repository.AssemblyInfoInputs.cache
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\obj\Release\net6.0\BloodBank.Repository.AssemblyInfo.cs
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\obj\Release\net6.0\BloodBank.Repository.csproj.CoreCompileInputs.cache
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\obj\Release\net6.0\BloodBank.Repository.csproj.CopyComplete
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\obj\Release\net6.0\BloodBank.Repository.dll
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\obj\Release\net6.0\refint\BloodBank.Repository.dll
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\obj\Release\net6.0\BloodBank.Repository.pdb
+F:\Project C#\BloodBankSystem Solution\BloodBank.Repository\obj\Release\net6.0\ref\BloodBank.Repository.dll
